@@ -4,7 +4,7 @@
 
 	This file was created by doubleki at 2022/10/01 19:48
 	Updated 1.0.0 version at 2022/10/01 21:15
-	This cpp can run as a random decitrator
+	This cpp file can run as a random decitrator
 */
 #include <conio.h>
 #include <iostream>
